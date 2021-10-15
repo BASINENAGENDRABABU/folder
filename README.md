@@ -1,0 +1,2 @@
+# folder
+git basic things 
